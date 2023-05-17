@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, and welcome to my Github profile! 👋
 
-<!--
-**mhbdev/mhbdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I am a full-stack developer with a passion for creating high-quality applications that solve real-world problems. Recently, I have been focusing on Flutter development as a frontend developer, and I am excited about the possibilities that this technology offers for building cross-platform applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise in full-stack development allows me to understand the entire application development process, from server-side architecture to user interface design. I am skilled in a variety of programming languages, including Java, Python, and JavaScript, and I have experience working with a range of databases and frameworks.
+
+In my free time, I enjoy contributing to open-source projects and learning new programming languages and tools. I believe that the best way to improve as a developer is to constantly challenge yourself and push the boundaries of what you know.
+
+If you're interested in working with me or learning more about my experience, please feel free to reach out. Thank you for visiting my profile!
+
+## Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhbdev&count_private=true&show_icons=true)](https://github.com/mhbdev)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbdev&hide_progress=false)](https://github.com/mhbdev)
