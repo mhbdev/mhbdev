@@ -1,5 +1,11 @@
 ### Hello, and welcome to my Github profile! 👋
 
+# Projects
+
+Founder of [PizzaTon](https://t.me/pitzaton) and [FractioNFT](https://t.me/fractionft)
+
+Smart contract developer at [Pie Trading Platform](https://t.me/pietrade)
+
 # About Me
 
 I am a full-stack developer with a passion for creating high-quality applications that solve real-world problems. Recently, I have been focusing on Flutter development as a frontend developer, and I am excited about the possibilities that this technology offers for building cross-platform applications.
