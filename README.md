@@ -2,9 +2,11 @@
 
 # Projects
 
-Founder of [PizzaTon](https://t.me/pitzaton) and [FractioNFT](https://t.me/fractionft)
-
-Smart contract developer at [Pie Trading Platform](https://t.me/pietrade)
+Founder of 
+* [PizzaTon](https://t.me/pitzaton)
+* and [FractioNFT](https://t.me/fractionft?startapp)
+* and [dotTON](https://t.me/dotTONbot?startapp)
+* and [Pie Trading Platform](https://t.me/pietrade?startapp)
 
 # About Me
 
