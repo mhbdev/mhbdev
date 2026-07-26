@@ -3,6 +3,7 @@
 # Projects
 
 Founder of 
+* [Upstand](https://github.com/mhbdev/upstand)
 * and [FractioNFT](https://t.me/fractionft?startapp)
 * and [dotTON](https://t.me/dotTONbot?startapp)
 * and [TonGo](https://tongo.run)
@@ -16,11 +17,3 @@ My expertise in full-stack development allows me to understand the entire applic
 In my free time, I enjoy contributing to open-source projects and learning new programming languages and tools. I believe that the best way to improve as a developer is to constantly challenge yourself and push the boundaries of what you know.
 
 If you're interested in working with me or learning more about my experience, please feel free to reach out. Thank you for visiting my profile!
-
-## Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhbdev&count_private=true&show_icons=true)](https://github.com/mhbdev)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbdev&hide_progress=false)](https://github.com/mhbdev)
